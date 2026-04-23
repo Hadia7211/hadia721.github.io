@@ -32,7 +32,7 @@ content:
         additional_links:
           - title: GitHub
             icon: fab fa-github
-            url: https://github.com/your-project-link
+            url: https://github.com/PakPlug/P18-PakPlug.git
         quote: >
           Full-stack EV charging platform for station discovery, bookings, and charging-session workflows.
         description: |
