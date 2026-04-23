@@ -42,45 +42,6 @@ content:
 
           Implemented Flutter frontend with map-based UI, booking flows, analytics features, and notification behavior improvements.
 
-      - layout: top-middle
-        title: Whisper-Based Audio Deepfake Detection
-        additional_links:
-          - title: GitHub
-            icon: fab fa-github
-            url: https://github.com/your-project-link
-        quote: >
-          Research-driven project focused on detecting synthetic or altered speech.
-        description: |
-          Built and studied deepfake audio detection workflows using Whisper-based features and related audio representations.
-
-          Evaluated model behavior and performance using practical classification metrics and dataset-based testing.
-
-      - layout: top-middle
-        title: Retrieval-Augmented Generation Chatbot
-        additional_links:
-          - title: GitHub
-            icon: fab fa-github
-            url: https://github.com/your-project-link
-        quote: >
-          LLM application combining retrieval and generation for better grounded responses.
-        description: |
-          Built a RAG-based chatbot pipeline that combines document retrieval with response generation.
-
-          Focused on improving contextual relevance, information grounding, and user-facing response quality.
-
-      - layout: top-middle
-        title: GraphSAGE Maze Solver
-        additional_links:
-          - title: GitHub
-            icon: fab fa-github
-            url: https://github.com/your-project-link
-        quote: >
-          Graph neural network project for supervised maze-solving and path prediction.
-        description: |
-          Implemented a GraphSAGE-based model for learning maze-solving behavior from graph-structured inputs.
-
-          Applied supervised learning with shortest-path labels and graph-based feature extraction.
-
   - title: Education
     layout: list
     content:
@@ -110,11 +71,6 @@ content:
         description: |
           Studied modern deepfake detection methods including Whisper-based, WavLM-based, and signal-level approaches.
 
-      - layout: left
-        title: Saraiki Language Research
-        description: |
-          Contributed to academic writing and research on the historical, linguistic, and sociopolitical context of the Saraiki language.
-
   - title: Leadership & Achievements
     layout: list
     content:
@@ -122,7 +78,6 @@ content:
         title: Director of Coverage – PhotoLUMS
         description: |
           Led photography coverage, planning, coordination, and team mentoring for major events and creative initiatives.
-
 # Footer
 footer_show_references: true
 
