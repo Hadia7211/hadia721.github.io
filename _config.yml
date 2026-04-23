@@ -87,7 +87,7 @@ content:
       - layout: top-right
         title: Lahore University of Management Sciences (LUMS)
         sub_title: BS Computer Science
-        caption: Expected Graduation: 2026
+        caption: "Expected Graduation: 2026"
         description: |
           Relevant coursework includes Data Structures, Algorithms, Software Engineering, Databases, Machine Learning, and related advanced computing subjects.
 
